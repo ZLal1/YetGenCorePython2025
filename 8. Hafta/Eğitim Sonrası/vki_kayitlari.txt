@@ -1,0 +1,4 @@
+Isim Soyisim | Yaş | Boy(m) | Kilo(kg) | VKİ | Sınıf
+--------------------
+lal can | 18 | 1.76 | 58.0 | 18.72 | Normal Kilolu
+ali keskin | 28 | 1.98 | 100.0 | 25.51 | Fazla Kilolu
